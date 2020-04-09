@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LaundryApp</string>
+    <string name="slogan">Laundry App</string>
+    <string name="signin">SIGN IN</string>
+    <string name="username_label">Username</string>
+    <string name="password_label">Password</string>
+    <string name="email_label">Email Address</string>
+    <string name="continue_label">CONTINUE</string>
+    <string name="nama_label">Name</string>
+    <string name="address_label">Address</string>
+    <string name="home_label">Go Home</string>
+</resources>
